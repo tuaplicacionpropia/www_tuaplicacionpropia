@@ -1,0 +1,37 @@
+[% prefix = repeatText("../", page.src_pathlevel) %]
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+
+<!--[if lte IE 8]><script src="[% prefix %]res/html5shiv.js"></script><![endif]-->
+<link rel="stylesheet" href="[% prefix %]res/css/main.css" />
+<!--[if lte IE 8]><link rel="stylesheet" href="[% prefix %]res/css/ie8.css" /><![endif]-->
+
+<script type="text/javascript" src="[% prefix %]res/jquery.js"></script>
+<script type="text/javascript" src="[% prefix %]res/jquery.smartmenus.js"></script>
+<script type="text/javascript">
+  $(function() {
+    $('#main-menu').smartmenus({
+      subMenusSubOffsetX: 1,
+      subMenusSubOffsetY: -8
+    });
+  });
+</script>
+
+<link rel="stylesheet" type="text/css" href="[% prefix %]res/css/sm-core-css.css" />
+<link rel="stylesheet" type="text/css" href="[% prefix %]res/css/sm-blue/sm-blue.css" />
+
+<style type="text/css">
+  @media screen and (min-width: 768px) {
+    #main-menu { position:relative; z-index:9999; width:12em; float: left; }
+    #main-menu ul {
+      width:12em; /* fixed width only please - you can use the "subMenusMinWidth"/"subMenusMaxWidth" script options to override this if you like */
+    }
+  }
+</style>
+<!--[if lt IE 9]><script src="[% prefix %]res/respond.min.js"></script><![endif]-->
+
+<link rel="stylesheet" type="text/css" href="[% prefix %]res/css/gridlex.css" />
+<link rel="stylesheet" type="text/css" href="[% prefix %]res/css/cards.css" />
+<link rel="stylesheet" type="text/css" href="[% prefix %]res/css/overwrite.css" />
+

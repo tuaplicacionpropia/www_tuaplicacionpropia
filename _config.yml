@@ -1,0 +1,26 @@
+# Dapper configuration file
+---
+name : Tu aplicación propia
+description: Tu web sobre aplicaciones personalizadas
+
+Dapper_libs : '_libs'
+
+url: http://vanilladraft.com/
+source : _source/
+output : _output/
+layout : _layout/
+links :
+    Preface : /preface/
+    Feed : http://feeds.feedburner.com/vanilladraft
+    Amazon : http://amazon.com/author/markbenson
+    Github : http://github.com/markdbenson
+    LinkedIn : http://linkedin.com/in/markbenson
+    Twitter : https://twitter.com/markbenson
+ignore :
+    - "^\."
+    - "^_"
+    - "^design$"
+    - "^README.md$"
+    - "^Makefile$"
+    - "^_libs"
+

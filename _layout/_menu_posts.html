@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+[% include "_meta_comment.html" %]
+<html lang="es-ES">
+  <head>
+    <title>[% page.title | ucfirst %] - [% site.name | ucfirst %]</title>
+    [% include "_head_includes.html" %]
+  </head>
+
+  <body>
+    [% include "_sidebar.html" %]
+    <div class="content">
+      <div class="inner">
+    [% pagesMenu = loadInnerPages(page) %]
+        <div class="grid-4_lg-4_md-3_sm-2_xs-1">
+    [% for pageMenu in pagesMenu %]
+          <div class="col">
+      [% include "_menu_post.html" post = pageMenu parent = page %]
+          </div>
+    [% end %]   
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+

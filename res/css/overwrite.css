@@ -1,0 +1,87 @@
+/*
+#nav li a {
+ z-index: 9999;
+}
+
+#main-menu ul a {
+ color: #2b82ac;
+}
+*/
+
+
+
+#main-menu ul a, #main-menu ul a:focus, #main-menu ul a:active, #main-menu ul a.highlighted {
+ color: #2b82ac;
+}
+
+#main-menu a {
+ color: #FFFFFF;
+}
+
+/*
+#main-menu ul a:hover, #main-menu ul a:focus, #main-menu ul a:active, #main-menu ul a.highlighted {
+ color: #FFFFFF;
+}
+
+.sm-blue ul a, .sm-blue ul a:hover, .sm-blue ul a:focus, .sm-blue ul a:active {
+  color: #2b82ac;
+}
+*/
+/*
+#nav li:hover a {
+background-color: none;
+color: #2b82ac;
+}
+*/
+
+.embed-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+}
+
+.embed-container iframe {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+/*
+  width: 100%;
+  height: 100%;
+*/
+}
+
+
+.embed-container iframe {
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 320px) {
+
+  .embed-container iframe {
+    width: 80%;
+    height: 80%;
+  } 
+
+}
+
+@media (min-width: 768px) {
+
+  .embed-container iframe {
+    width: 90%;
+    height: 90%;
+  } 
+
+}
+
+@media (min-width: 1200px) {
+
+  .embed-container iframe {
+    width: 100%;
+    height: 100%;
+  } 
+
+}
+

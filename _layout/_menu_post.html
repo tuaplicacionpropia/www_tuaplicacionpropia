@@ -1,0 +1,29 @@
+  [% postImg = "https://images.unsplash.com/photo-1441312311734-f44cc0bda31d?fit=crop&amp;fm=jpg&amp;h=375&amp;w=500" %]
+  [% prefixUrl = repeatText("../", parent.src_pathlevel) %]
+  [% postUrl = post.url2 %]
+  [% postDate = post.crtime %]
+  [% postTitle = post.title %]
+  [% postDescription = post.description %]
+[% comment %]
+  [% postDate = "Thursday, July 16, 2015" %]
+  [% postTitle = "The nice sample title of this card." %]
+  [% postDescription = "Sed posuere consectetur est at lobortis. Aenean eu leo quam." %]
+[% end %]
+<div class="thecard">
+  <a class="card-img" href="[% prefixUrl %][% postUrl %]">
+    <img src="[% postImg %]">
+  </a>
+  <div class="card-caption">
+    <a href="#like" class="like-btn fa fa-thumbs-o-up"></a>
+    <a href="[% prefixUrl %][% postUrl %]">
+      <span class="date">[% formatDate(postDate, "%A %e %B de %Y") %]</span>
+      <h1>[% postTitle %]</h1>
+      <p>[% postDescription %]</p>
+    </a>
+  </div>
+  <a class="card-outmore" href="[% prefixUrl %][% postUrl %]">
+    <h5>Leer más</h5>
+    <i class="outmore-icon fa fa-angle-right"></i>
+  </a>
+</div>
+

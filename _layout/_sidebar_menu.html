@@ -1,0 +1,245 @@
+[% macro menu(mPage, recursive) block %]
+    [% mPageTitle = mPage.title %]
+    [% prefixUrl = repeatText("../", page.src_pathlevel) %]
+    [% mPageUrl = mPage.url2 %]
+    <li>
+      <a href="[% prefixUrl %][% mPageUrl %]">[% mPageTitle %]</a>
+     [% if recursive %]
+      [% innerPages = loadInnerPages(mPage) %]
+      [% if innerPages | size > 0 %]
+        [% hasM = 0 %]
+	[% for innerPage in innerPages %]
+          [% if innerPage.src_basename eq 'index' %]
+[% if hasM == 0 %]
+      <ul>
+[% end %]
+[% hasM = 1 %]
+            [% menu(innerPage) %]
+          [% end %]
+        [% end %]
+[% if hasM == 1 %]
+      </ul>
+[% end %]
+      [% end %]
+     [% end %]
+    </li>
+[% end %]
+
+[% macro mainMenu() block %]
+  [% rootPages = loadInnerPages(getRootPage()) %]
+  <ul id="main-menu" class="sm sm-vertical sm-blue">
+  [% for mPage in rootPages %]
+    [% menu(mPage, 1) %]
+  [% end %]
+  </ul>
+[% end %]
+
+[% macro rootMainMenu() block %]
+  [% rootPage = getRootPage() %]
+  [% menu(rootPage, 0) %]
+  [% rootPages = loadInnerPages(rootPage) %]
+  [% for mPage in rootPages %]
+    [% menu(mPage, 1) %]
+  [% end %]
+[% end %]
+
+					<div id="nav2">
+						<ul id="main-menu" class="sm sm-vertical sm-blue">
+[% comment %]
+							<li class="current"><a href="#">Últimos artículos</a></li>
+[% end %]
+							[% rootMainMenu() %]
+[% comment %]
+							<li><a href="#">Acerca de...</a></li>
+							<li><a href="#">Contacto</a></li>
+[% end %]
+						</ul>
+					</div>
+
+[% comment %]
+
+
+http://cloudcannon.com/tips/2014/12/12/the-ultimate-list-of-services-for-static-websites.html
+
+http://kenwheeler.github.io/slick/
+$('.autoplay').slick({
+  slidesToShow: 3,
+  slidesToScroll: 1,
+  autoplay: true,
+  autoplaySpeed: 2000,
+});
+
+
+http://gridlex.devlint.fr/index.html
+<div class="grid-4_lg-4_md-3_sm-2_xs-1">
+            <div class="col"><div class="demo"><p>grid-12</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+            <div class="col"><div class="demo"><p>&nbsp;</p></div></div>
+        </div>
+
+
+http://gridlex.devlint.fr/index.html
+<div class="thecard">
+            <a class="card-img" href="#_">
+                <img src="https://images.unsplash.com/photo-1441312311734-f44cc0bda31d?fit=crop&amp;fm=jpg&amp;h=375&amp;w=500">
+            </a>
+            <div class="card-caption">
+                <a href="#like" class="like-btn fa fa-thumbs-o-up"></a>
+                <a href="#_">
+                    <span class="date">Thursday, July 16, 2015</span>
+                    <h1>The nice sample title of this card.</h1>
+                    <p>Sed posuere consectetur est at lobortis. Aenean eu leo quam.</p>
+                </a>
+            </div>
+            <a class="card-outmore" href="#_">
+                <h5>Read more</h5>
+                <i class="outmore-icon fa fa-angle-right"></i>
+            </a>
+        </div>
+
+Cards
+http://codepen.io/mithicher/pen/azQKNN/
+http://codepen.io/knolaust/pen/bNvZRQ
+http://codepen.io/MattiaAstorino/pen/VYWxXy
+http://codepen.io/chrisgannon/pen/NPwjGE/
+http://codepen.io/balapa/pen/embYYB
+http://codepen.io/MattiaAstorino/pen/zxRayG/
+http://codepen.io/MattiaAstorino/pen/eNaNgq
+http://codepen.io/suez/pen/oXLroX
+http://codepen.io/bennettfeely/pen/Ftczh
+http://codepen.io/mihaliswastaken/full/PZodoM/
+http://codepen.io/frytyler/pen/jwlyI
+http://codepen.io/wsabol/pen/adZJXN
+
+
+Pricing Table
+http://codepen.io/littlesnippets/pen/eJzabg
+http://codepen.io/arkev/pen/EDeuG
+http://codepen.io/chrisfrees/full/bpjxc/
+
+Credit Card
+http://codepen.io/niclick/pen/KVMbyG
+
+
+Sticky Sidebar
+http://codepen.io/arlinadesign/full/OMXaYb/
+
+Fullscreen HTML5 Page Background Video
+http://codepen.io/dudleystorey/pen/knqyK
+http://codepen.io/nidhinnidhi/full/jWrqrN/
+
+Dropdown Button :: Pure CSS
+http://codepen.io/andytran/pen/vLNGvN
+
+Google Material Design
+http://codepen.io/iraycd/pen/dHrxv
+
+Countdown Clock
+http://codepen.io/ademilter/pen/czIGo
+
+Menu
+http://codepen.io/lbebber/pen/LELBEo
+http://codepen.io/lbebber/pen/RNgBPP
+http://codepen.io/lbebber/pen/pvwZJp
+http://codepen.io/lbebber/pen/rawQKR
+http://codepen.io/CreativeJuiz/pen/oCBxz
+http://codepen.io/EduardL/full/aBGAy/
+http://codepen.io/zavoloklom/full/dIgco/
+http://codepen.io/bennettfeely/pen/Ftczh
+http://codepen.io/arkev/pen/DzCKF
+http://codepen.io/hrtzt/pen/NPZKRN
+http://codepen.io/virgilpana/pen/NPzodr
+http://codepen.io/sparanoid/pen/nHAmi
+http://codepen.io/devilishalchemist/pen/LERvpM
+http://codepen.io/CreativePunch/pen/lAHiu
+
+
+Freebie Interactive Flat Design UI / Only HTML5 & CSS3
+http://codepen.io/jlalovi/pen/bIyAr
+
+get you some bacon
+http://codepen.io/screeny05/pen/rxObWx
+
+CSS + HTML only Accordion Element
+http://codepen.io/abergin/pen/ihlDf
+http://codepen.io/raubarrera/pen/PZzpVe
+http://codepen.io/Frecosse/pen/Akwdo
+
+Smooth Anchor Scrolling
+http://codepen.io/adenadoume/full/wMWXBQ/
+http://codepen.io/robooneus/pen/Aclqr
+
+Toolbar
+http://codepen.io/cameronbaney/pen/Drjxe
+
+CSS Table Layout
+http://codepen.io/lukepeters/pen/bfFur
+
+Buttons
+http://codepen.io/Fischaela/pen/ahgIy
+
+Full Page Intro & Navigation
+http://codepen.io/codyhouse/full/jqomk/
+
+Animated text fill
+http://codepen.io/zitrusfrisch/pen/fjbal
+
+Tabs
+http://codepen.io/Lewitje/pen/doJRBX
+
+Progress bar
+http://codepen.io/jo-asakura/pen/stFHi
+
+http://codepen.io/pens/111/
+
+
+  <ul id="main-menu" class="sm sm-vertical sm-blue">
+    <li><a href="http://www.smartmenus.org/">Home</a></li>
+    <li><a href="http://www.smartmenus.org/about/">About</a>
+      <ul>
+        <li><a href="http://www.smartmenus.org/about/introduction-to-smartmenus-jquery/">Introduction to SmartMenus jQuery</a></li>
+        <li><a href="http://www.smartmenus.org/about/themes/">Themes</a></li>
+        <li><a href="http://vadikom.com/about/#vasil-dinkov">The author</a></li>
+        <li><a href="http://www.smartmenus.org/about/vadikom/">The company</a>
+          <ul>
+            <li><a href="http://vadikom.com/about/">About Vadikom</a></li>
+            <li><a href="http://vadikom.com/projects/">Projects</a></li>
+            <li><a href="http://vadikom.com/services/">Services</a></li>
+            <li><a href="http://www.smartmenus.org/about/vadikom/privacy-policy/">Privacy policy</a></li>
+          </ul>
+        </li>
+        <li><a href="http://www.smartmenus.org/about/old-smartmenus-versions/">Old SmartMenus versions</a></li>
+      </ul>
+    </li>
+    <li><a href="http://www.smartmenus.org/download/">Download</a></li>
+    <li><a aria-expanded="false" aria-controls="sm-14502090296926191-6" aria-haspopup="true" id="sm-14502090296926191-5" class="has-submenu" href="http://www.smartmenus.org/support/"><span class="sub-arrow">+</span>Support</a>
+      <ul aria-expanded="false" aria-labelledby="sm-14502090296926191-5" aria-hidden="true" role="group" id="sm-14502090296926191-6" class="" style="">
+        <li><a href="http://www.smartmenus.org/support/premium-support/">Premium support</a></li>
+        <li><a href="http://www.smartmenus.org/support/forums/">Forums</a></li>
+      </ul>
+    </li>
+    <li><a href="http://www.smartmenus.org/docs/">Docs</a></li>
+    <li><a href="#">Mega menu</a>
+      <ul>
+        <li>
+          <div style="width:400px;max-width:100%;">
+            <div style="padding:5px 24px;">
+              <p>This is a mega drop down test. Just set the "mega-menu" class to the parent UL element to inform the SmartMenus script. It can contain <strong>any HTML</strong>.</p>
+              <p>Just style the contents as you like (you may need to reset some SmartMenus inherited styles - e.g. for lists, links, etc.)</p>
+			</div>
+		  </div>
+        </li>
+      </ul>
+    </li>
+  </ul>
+[% end %]
+
