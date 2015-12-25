@@ -1,5 +1,8 @@
 <!DOCTYPE HTML>
 [% include "_meta_comment.html" %]
+
+[% postTitle = page.title %]
+[% postDescription = page.description %]
 <html lang="es-ES">
   <head>
     <title>[% page.title | ucfirst %] - [% site.name | ucfirst %]</title>
@@ -10,6 +13,12 @@
     [% include "_sidebar.html" %]
     <div class="content">
       <div class="inner">
+        <article class="box post post-excerpt">
+          <header>
+            <h2><a href="#">[% postTitle %]</a></h2>
+            <p>[% postDescription %]</p>
+          </header>
+          
     [% pagesMenu = loadInnerPages(page) %]
         <div class="grid-4_lg-4_md-3_sm-2_xs-1">
     [% for pageMenu in pagesMenu %]
@@ -18,8 +27,9 @@
           </div>
     [% end %]   
         </div>
+          
+        </article>
       </div>
     </div>
   </body>
 </html>
-

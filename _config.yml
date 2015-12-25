@@ -23,4 +23,7 @@ ignore :
     - "^README.md$"
     - "^Makefile$"
     - "^_libs"
+    - "^etc"
+    - "^build.sh"
+    - "^test.out"
 
