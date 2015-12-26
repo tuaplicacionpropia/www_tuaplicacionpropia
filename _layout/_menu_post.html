@@ -1,18 +1,21 @@
-  [% postImg = "https://images.unsplash.com/photo-1441312311734-f44cc0bda31d?fit=crop&amp;fm=jpg&amp;h=375&amp;w=500" %]
   [% prefixUrl = repeatText("../", parent.src_pathlevel) %]
   [% postUrl = post.url2 %]
   [% postDate = post.crtime %]
   [% postTitle = post.title %]
   [% postDescription = post.description %]
+  [% postImg = post.logo %]
 [% comment %]
   [% postDate = "Thursday, July 16, 2015" %]
   [% postTitle = "The nice sample title of this card." %]
   [% postDescription = "Sed posuere consectetur est at lobortis. Aenean eu leo quam." %]
+  [% postImg = "https://images.unsplash.com/photo-1441312311734-f44cc0bda31d?fit=crop&amp;fm=jpg&amp;h=375&amp;w=500" %]
 [% end %]
 <div class="thecard">
+[% if postImg | length > 0 %]
   <a class="card-img" href="[% prefixUrl %][% postUrl %]">
-    <img src="[% postImg %]">
+    <img src="[% prefixUrl %][% postImg %]">
   </a>
+[% end %]
   <div class="card-caption">
     <a href="#like" class="like-btn fa fa-thumbs-o-up"></a>
     <a href="[% prefixUrl %][% postUrl %]">
