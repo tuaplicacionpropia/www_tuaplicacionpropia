@@ -17,8 +17,7 @@ crtime: 2015-12-25 22:02:32
 * [rgagnon](http://www.rgagnon.com/howto.html).
 * [dreamincode](http://www.dreamincode.net/).
 * [ehow](http://www.ehow.com/).
-* [garabatoslinux](http://garabatoslinux.net/sube-tu-aplicacion-java-web-en-un-servidor-gratuito-cloudbess.html
-).
+* [garabatoslinux](http://garabatoslinux.net/sube-tu-aplicacion-java-web-en-un-servidor-gratuito-cloudbess.html).
 
 * [appengine](https://appengine.google.com/).
 * [openshift](https://www.openshift.com/).
@@ -1020,3 +1019,12 @@ http://webapplayers.com/inspinia_admin-v2.3/dashboard_2.html
 http://unkrig.de/w/Janino#Janino_as_a_Source_Code_ClassLoader
 * []().
 http://janino.net/changelog.html
+
+
+* [Perl Rest web app (I)](http://advent.perldancer.org/2010/8)
+* [Perl Rest web app (II)](http://blogs.perl.org/users/job_van_achterberg/2011/09/making-restful-dancing-easy-with-dancerpluginrest.html)
+* [Perl Rest web app (III)](http://www.codeproject.com/Articles/414446/REST-Service-with-Perl-and-Dancer)
+* [Perl Rest web app (IV)](http://www.techumber.com/2014/08/create-restful-services-using-perl.html)
+
+
+
