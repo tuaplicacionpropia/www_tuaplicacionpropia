@@ -85,3 +85,26 @@ color: #2b82ac;
 
 }
 
+.info-box-href {
+  text-transform: none;
+}
+
+.info-box-icon > img {
+    vertical-align: middle;
+}
+
+a.a-info-box {
+    text-decoration: none;
+}
+
+.info-box-number {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.info-box-href {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

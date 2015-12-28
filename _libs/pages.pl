@@ -42,7 +42,7 @@ sub formatDate { my($date, $pattern) = @_;
   use Time::Piece;
   my $t = Time::Piece->strptime($date, "%Y-%m-%d %H:%M:%S");
   $result = $t->strftime($pattern);
-print ">>>>>>>>>>>> FECHA = ".$result."\n";
+#print ">>>>>>>>>>>> FECHA = ".$result."\n";
   return $result;
 }
 $stash->set('formatDate', \&formatDate);

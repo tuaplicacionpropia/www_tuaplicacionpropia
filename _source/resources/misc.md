@@ -5,7 +5,7 @@ description: Variados recursos
 crtime: 2015-12-25 22:02:32
 ---
 
-
+* [Perl](https://www.gossland.com/perlcourse/cgi_intro/printing).
 
 * [Zkoss?](http://books.zkoss.org/wiki/Small_Talks/2015/January/Simplify_Long_Operation_Handlings).
 * [Artículo google analytics](http://luismarketingonline.es/google-analytics-nos-miente-con-la-tasa-de-rebote-y-la-duracion-de-la-visita/).
@@ -21,36 +21,10 @@ crtime: 2015-12-25 22:02:32
 * [ehow](http://www.ehow.com/).
 * [garabatoslinux](http://garabatoslinux.net/sube-tu-aplicacion-java-web-en-un-servidor-gratuito-cloudbess.html).
 
-* [appengine](https://appengine.google.com/).
-* [openshift](https://www.openshift.com/).
-* [cloudbees](https://www.cloudbees.com/).
-* [teamtreehouse](http://teamtreehouse.com).
-
-* [backbonejs](http://backbonejs.org/#examples).
 
 
 
 
-
-
-* [backbone-tutorial](http://dailyjs.com/2013/03/14/backbone-tutorial-14/).
-* [subtlepatterns](http://subtlepatterns.com/).
-* [Google fonts](http://www.google.com/fonts/).
-
-
-
-* [j2ee-application-performance-optimization](http://www.javaworld.com/article/2074843/build-ci-sdlc/j2ee-application-performance-optimization.html).
-
-
-* [benchmarks](https://www.techempower.com/benchmarks/).
-* [netty](http://netty.io/).
-
-* [precisejava](http://www.precisejava.com/).
-* [appservers](http://www.javaperformancetuning.com/tips/appservers.shtml).
-
-* [odf-tools](http://www.opendocsociety.org/tools/odf-tools/).
-
-* [jOpenDocument](https://www.openhub.net/p/jOpenDocument?ref=sample).
 
 * [disqus](https://disqus.com/).
 * [disqus: git-the-simple-guide](https://disqus.com/home/forums/git-the-simple-guide/).
@@ -58,171 +32,30 @@ crtime: 2015-12-25 22:02:32
 
 
 
-* [sqliteperltutorial](http://zetcode.com/db/sqliteperltutorial/).
-* [YAML_IMPLEMENTATIONS_IN_PERL](http://search.cpan.org/~ingy/YAML-1.14/lib/YAML.pod#YAML_IMPLEMENTATIONS_IN_PERL).
-* [sqlite](http://www.sqlite.org/).
 
 
-* [ghost](https://ghost.org/).
-
-* [fontastic](http://fontastic.me/).
-
-* [fontello](http://fontello.com/).
-
-* [icomoon](https://icomoon.io/).
 
 
-* [](http://pepsized.com/icon-fonts-in-use-with-a-fancy-hover-effect/).
-* [](http://tympanus.net/Development/IconHoverEffects/).
-* [](http://stackicons.com/).
-* [](https://css-tricks.com/stackicons-icon-fonts/).
-* [](http://www.zenman.com/blog/how-to-create-multi-colored-icon-fonts-for-responsive-web-design/).
-* [](https://useiconic.com/open/).
-* [](http://fontcustom.com/).
-* [](http://glyphter.com/).
-* [](https://css-tricks.com/stackicons-icon-fonts/).
-* [](http://codepen.io/parkerbennett/pen/tIzho).
-* [](http://www.flaticon.com/).
+
 
 
 * [juegoviejo](http://www.juegoviejo.com/plataforma/pc/).
 
 
-* [gravit](http://gravit.io/).
 
 
-* [powtoon](http://www.powtoon.com/).
 
 
-* [phantomjscloud](https://phantomjscloud.com/).
 
 
-* [nightmarejs](http://www.nightmarejs.org/).
 
 
 
-* [stackexchange](http://dba.stackexchange.com/).
 
 
 
-* [googleusercontent](https://static.googleusercontent.com/media/www.google.com/es//intl/es/webmasters/docs/guia_optimizacion_motores_busqueda.pdf).
 
 
-
-* [80legs](http://80legs.com/).
-
-
-
-* [perltricks](http://perltricks.com/article/29/2013/9/17/How-to-Load-YAML-Config-Files).
-
-
-* [airdroid](http://web.airdroid.com/).
-
-
-
-
-* [torproject](https://www.torproject.org/).
-
-
-
-* [webex](http://www.webex.es/).
-
-
-
-
-* [vimeo](https://vimeo.com/).
-
-
-* [timeanddate](http://www.timeanddate.com).
-* [timeanddate](http://www.timeanddate.com/worldclock/fixedform.html).
-* [timeanddate](http://www.timeanddate.com/countdown/create).
-* [timeanddate](http://www.timeanddate.com/worldclock/fixedtime.html?msg=ZK+MVVM+Course+%28Class+B%29&iso=20150528T0930&p1=3921&ah=3).
-* [timeanddate](http://www.timeanddate.com/worldclock/fixedtime.html?msg=MI+CURSO+FANTASTICO&iso=20150528T0930&p1=3921&ah=3).
-
-
-
-
-
-* [jnode](http://www.jnode.org/).
-
-
-
-* [pdfcrowd](http://pdfcrowd.com/web-html-to-pdf-java/).
-* [stackoverflow](http://stackoverflow.com/questions/17825782/how-to-convert-html-to-pdf-using-itext).
-* [google](https://code.google.com/p/flying-saucer/).
-* [hmkcode](http://hmkcode.com/itext-html-to-pdf-using-java/).
-
-
-
-
-* [](http://stackoverflow.com/questions/200284/what-are-alternatives-to-extjs).
-* [](http://openui5.org/).
-* [](http://dojotoolkit.org/).
-* [](http://dhtmlx.com/).
-* [](http://angular-ui.github.io/).
-* [](https://www.polymer-project.org/0.5/).
-
-
-* [stackoverflow](http://stackoverflow.com/questions/23725199/how-can-we-consume-json-data-using-openui5-sapui5).
-* [jsbin](http://output.jsbin.com/openui5-js-view/256/).
-
-
-
-
-* [indeed](http://www.indeed.es).
-
-
-
-
-* [httl](http://httl.github.io/en/).
-* [tenjin](http://www.kuwata-lab.com/tenjin/).
-* [rythmengine](http://rythmengine.org/).
-* [velocity](http://velocity.apache.org/engine/devel/user-guide.html).
-* [freemarker](http://freemarker.org/).
-* [jmte](https://code.google.com/p/jmte/).
-* [todaysoftmag](http://www.todaysoftmag.com/article/907/template-engines-for-java-web-development).
-* [stringtemplate](http://www.stringtemplate.org/).
-* [thymeleaf](http://www.thymeleaf.org/).
-
-
-
-
-* [openfast](http://www.openfast.org/).
-
-
-
-* [staticgen](https://www.staticgen.com/).
-
-
-
-* [wiztools](http://www.wiztools.org/products.html).
-
-
-
-
-* [carrotsearch](http://labs.carrotsearch.com/hppc.html).
-
-
-
-
-
-* [HikariCP](http://brettwooldridge.github.io/HikariCP/): Connection pools: Vibur DBCP, HikariCP, SmartPool, Tomcat JDBC Connection Pool, C3P0.
-
-
-
-* [reducing-memory-consumption](http://java.dzone.com/articles/reducing-memory-consumption).
-
-* [trove](http://trove.starlight-systems.com/).
-
-
-
-
-* [meneame](https://www.meneame.net/).
-
-
-
-
-* [somebooks](http://somebooks.es/?p=3445).
 
 
 
@@ -231,189 +64,11 @@ crtime: 2015-12-25 22:02:32
 
 
 
-* [ocanvas](http://ocanvas.org).
-
-
-* [opengameart](opengameart.org).
-* [ludei](https://www.ludei.com/).
-* [melonjs](http://melonjs.org/).
-* [pixijs](http://www.pixijs.com/projects/).
-* [kiwijs](http://www.kiwijs.org/).
-* [html5gameengine](https://html5gameengine.com/).
-* [html5quintus](http://www.html5quintus.com/).
-* [phaser](http://phaser.io/).
-* [pandajs](http://www.pandajs.net/).
-* [limejs](http://www.limejs.com/).
-* [playcanvas](https://playcanvas.com/).
-* [lycheejs](http://lycheejs.org/index.html).
-* [scirra](https://www.scirra.com/).
-* [yoyogames](http://www.yoyogames.com/studio).
-* [isogenicengine](http://www.isogenicengine.com/).
-* [marketjs](http://www.marketjs.com/).
-* [impactjs](http://impactjs.com/ejecta).
-* [cocoonjs](https://www.ludei.com/cocoonjs/).
-
-
-* [wattpad](https://www.wattpad.com/).
-
-
-
-
-
-* [2dgameartforprogrammers](http://2dgameartforprogrammers.blogspot.com.es/).
-* [genbetadev](http://www.genbetadev.com/programacion-de-videojuegos/graficos-para-programadores-de-videojuegos).
-* [siondream](http://siondream.com/blog/general/2d-character-creation-and-animation-for-dummies/).
-* [synfig](http://www.synfig.org/cms/).
-* [2dgameartforfree](http://2dgameartforfree.blogspot.com.es/).
-* [lostgarden](http://www.lostgarden.com/search/label/free%20game%20graphics).
-* [widgetworx](http://www.widgetworx.com/spritelib/).
-* [cgtextures](http://www.cgtextures.com/).
-* [opengameart](http://opengameart.org/).
-* [genbetadev](http://www.genbetadev.com/trabajar-como-desarrollador/lo-dificil-no-es-hacer-un-videojuego-si-no-acabarlo-entrevista-a-marcos-rodriguez).
-* [emanueleferonato](http://www.emanueleferonato.com/category/game-design/).
-
-
-
-* [freshwebdev](http://freshwebdev.com/5-best-html5-game-framework.html).
-* [craftyjs](http://craftyjs.com/).
-* [moleculejs](http://www.moleculejs.io/).
-* [pandajs](http://www.pandajs.net/).
-* [solpeo](http://www.solpeo.com/).
-* [mightyfingers](http://mightyfingers.com/).
-
-
-
-* [html5rocks](http://www.html5rocks.com/es/tutorials/websockets/basics/).
-* [websocket](https://www.websocket.org/).
-
-* [UX+templates](https://www.google.es/search?q=UI/UX+templates).
-* [uxmovement](http://uxmovement.com/resources/4-best-design-pattern-libraries/).
-* [patterntap](http://patterntap.com/).
-* [smileycat](http://www.smileycat.com/design_elements/).
-* [patternry](http://patternry.com/).
-* [ui-patterns](http://ui-patterns.com/).
-
-
-* [Spine](http://esotericsoftware.com/): Spine: Software de animación en 2D para juegos de video
-* [inkscape](https://inkscape.org/es/).
-* [Spine](http://es.esotericsoftware.com/).
-
 
 * [spo-comm](https://www.spo-comm.de/).
 
 
-* [Entity_component_system](https://en.wikipedia.org/wiki/Entity_component_system).
-* [flambe](https://github.com/aduros/flambe).
-* [kiwijs](http://www.kiwijs.org/).
-* [craftyjs](http://craftyjs.com/).
-* [html5gamedevs](http://www.html5gamedevs.com/topic/2855-has-anyone-used-an-ecs-pattern-in-their-phaser-project/?hl=entity%C2%A0).
-* [ces](https://github.com/qiao/ces.js).
-* [awe6](https://code.google.com/p/awe6/).
-* [awe6](https://github.com/hypersurge/awe6).
-* [box2d-js](http://box2d-js.sourceforge.net/).
 
-
-* [texturepacker](https://www.codeandweb.com/texturepacker).
-
-* [cocos2d](http://cocos2d.org/).
-* [cocos2d-x](http://www.cocos2d-x.org/).
-
-* [kiwijs](http://www.kiwijs.org/).
-* [mapeditor](http://www.mapeditor.org/).
-
-
-
-
-
-
-* [phonegap-tutorial](http://coenraets.org/blog/phonegap-tutorial/).
-* [tutorial-implement-push-notifications-in-your-phonegap-application](http://devgirl.org/2013/07/17/tutorial-implement-push-notifications-in-your-phonegap-application/).
-* [day-10-phonegap-mobile-development-for-the-dummies](https://blog.openshift.com/day-10-phonegap-mobile-development-for-the-dummies/).
-* [enableds](http://enableds.com/items/?theme=ceevee).
-* [adding-icons-and-splash-screens-to-your-phonegap-icenium-projects](http://www.telerik.com/blogs/adding-icons-and-splash-screens-to-your-phonegap-icenium-projects).
-
-
-* [framework7](http://www.idangero.us/framework7/).
-* [onsen](http://onsen.io/).
-* [ionicframework](http://ionicframework.com/).
-* [phonegap](http://themeforest.net/tags/phonegap).
-* [enableds](http://enableds.com/items/?theme=sandglass).
-* [enableds](http://enableds.com/items/?theme=trolley).
-* [html5-mobile-templates-free-premium](http://www.wpfreeware.com/tutorial/html5-mobile-templates-free-premium/).
-
-* [special-links](https://beradrian.wordpress.com/2010/01/15/special-links/).
-
-
-* [flaticon](http://www.flaticon.com/packs/office-set).
-* [freepik](http://www.freepik.com/).
-* [fontsquirrel](http://www.fontsquirrel.com/fonts/list/hot_web).
-* [fonticons](https://fonticons.com/).
-* [icomoon](https://icomoon.io/).
-* [fontastic](http://fontastic.me/).
-
-
-
-
-* [phonegapspain](http://www.phonegapspain.com/topic/enviar-correos/).
-* [phonegapspain](http://www.phonegapspain.com/tutorial/como-anadir-publicidad-admob-a-tu-proyecto-phonegap/).
-* [cordova-plugin-email-composer](https://github.com/katzer/cordova-plugin-email-composer).
-* [cordova-ios-android-tech-tip](http://blog.arungupta.me/cordova-ios-android-tech-tip/).
-
-* [cordova-plugin-local-notifications](https://github.com/katzer/cordova-plugin-local-notifications).
-* [com.tonikorin.cordova.plugin.pushplugin](http://plugins.cordova.io/#/package/com.tonikorin.cordova.plugin.pushplugin).
-
-* [pdf.js](https://mozilla.github.io/pdf.js/).
-* [ngcordova dialogs](http://ngcordova.com/docs/plugins/dialogs/).
-
-* [three-hooks-your-cordovaphonegap-project-needs](http://devgirl.org/2013/11/12/three-hooks-your-cordovaphonegap-project-needs/).
-* [icon-splashscreen](http://ionicframework.com/docs/cli/icon-splashscreen.html).
-
-* [automating-icons-and-splash-screens](http://blog.ionic.io/automating-icons-and-splash-screens/).
-* [PushPlugin](https://github.com/phonegap-build/PushPlugin).
-* [toast](http://plugins.telerik.com/cordova/plugin/toast).
-
-* [plugins.cordova.io](http://plugins.cordova.io/#/search?search=socket).
-* [plugins.cordova.io](http://plugins.cordova.io/#/package/com.tlantic.plugins.socket).
-* [plugins.cordova.io](http://plugins.cordova.io/#/package/org.chromium.socket).
-* [mobile-chrome-apps](https://github.com/MobileChromeApps/mobile-chrome-apps).
-
-* [crosswalk-project](https://crosswalk-project.org/).
-
-* [filedrop](https://github.com/freedomjs/freedom/tree/master/demo/filedrop).
-* [phonegap-p2p](https://github.com/don/phonegap-p2p).
-* [freedomjs](http://www.freedomjs.org/).
-
-
-* [socket-io-with-apache-cordova](http://socket.io/socket-io-with-apache-cordova/).
-* [bgs-core](https://github.com/Red-Folder/bgs-core).
-* [bgs-sample](https://github.com/Red-Folder/bgs-sample).
-* [cordova-plugin-background-mode](https://github.com/katzer/cordova-plugin-background-mode).
-
-
-* [vertx](http://vertx.io/).
-* [x-ray](https://github.com/lapwinglabs/x-ray).
-* [dailyjs](http://dailyjs.com/).
-
-
-* [crunchify](http://crunchify.com).
-
-
-* [how-to-start-an-application-at-device-bootup-in-android](http://javatechig.com/android/how-to-start-an-application-at-device-bootup-in-android).
-
-
-
-
-* [concepto](http://www.paletexpress.com/es/concepto/).
-
-
-
-* [runnable](http://code.runnable.com/).
-
-
-* [durandaljs](durandaljs.com).
-* [knockoutjs](http://knockoutjs.com/).
-* [requirejs](http://requirejs.org/).
-* [phantomjs](http://phantomjs.org/users.html).
 
 
 
@@ -426,18 +81,9 @@ crtime: 2015-12-25 22:02:32
 * [convox](http://convox.com/).
 
 
-* [alloyui](http://alloyui.com/examples).
-* [alloyui](http://alloyui.com/examples/image-cropper/).
-* [alloyui](http://alloyui.com/examples/diagram-builder/).
-* [alloyui](http://alloyui.com/examples/sortable-layout/).
-
-* [yuilibrary](http://yuilibrary.com/).
 
 
-* [docker](https://www.docker.com/).
 
-
-* [docx4java](http://www.docx4java.org/).
 
 
 
@@ -446,23 +92,16 @@ crtime: 2015-12-25 22:02:32
 
 
 
-* [storj](http://storj.io/).
-
-
-* [thenounproject](https://thenounproject.com/).
-
-
-* [defiantjs](http://www.defiantjs.com/).
 
 
 
-* [crear-animaciones-y-videos](http://hipertextual.com/2015/05/crear-animaciones-y-videos).
 
 
 
-* [10-servicios-de-almacenamiento-en-la-nube-como-alternativa-a-dropbox](http://www.androidsis.com/10-servicios-de-almacenamiento-en-la-nube-como-alternativa-a-dropbox/).
-* [alternativas-dropbox](http://www.muypymes.com/2014/03/21/alternativas-dropbox).
-* [getsync](https://www.getsync.com/intl/es/).
+
+
+
+
 
 * [estrategia-fidelizacion-incidencia-tecnica](http://www.muypymes.com/2011/08/31/estrategia-fidelizacion-incidencia-tecnica).
 
@@ -470,120 +109,35 @@ crtime: 2015-12-25 22:02:32
 * [acceleo](http://www.eclipse.org/acceleo/).
 * [genexus](http://www.genexus.com/productos/genexus?es).
 
-* [metaflop-crear-fuentes](http://hipertextual.com/2015/02/metaflop-crear-fuentes).
 
+http://stackshare.io/stackups/firebase-vs-parse
+https://parse.com/
+https://parse.com/docs/cloudcode/guide#started-installing
+https://parse.com/apps/quickstart
+http://www.ladeezfirstmedia.com/2013/06/26/tutorial-part-1-cloud-code-integrate-parse-coms-rest-api-with-your-coronasdk-app/
+http://www.ladeezfirstmedia.com/2013/06/30/tutorial-part-2-parsedata-coronasdk-parsemodules-ftw/
+http://www.ladeezfirstmedia.com/2013/07/08/tutorial-part-3-create-a-website-for-your-coronasdk-app-using-parse-coms-javascript-sdk/
+http://es.slideshare.net/pa4373/parse-cloud-code
 
-* [spdy-and-tomcat-8](http://stackoverflow.com/questions/26975990/spdy-and-tomcat-8).
-* [spdy](http://www.chromium.org/spdy).
-* [spdy](http://wiki.eclipse.org/Jetty/Feature/SPDY).
-* [spdy](http://nginx.org/en/docs/http/ngx_http_spdy_module.html).
-* [spdy](https://blog.httpwatch.com/2015/01/16/a-simple-performance-comparison-of-https-spdy-and-http2/).
-* [http2](https://http2.akamai.com/).
-
-* [rikulo](http://rikulo.org/).
-
-* [stackoverflow](http://careers.stackoverflow.com/jobs/).
-
-* [12-aplicaciones-android-perfectas-para-informaticos](http://www.elandroidelibre.com/2011/06/12-aplicaciones-android-perfectas-para-informaticos.html).
-* [aprender-a-programar-en-android-desde-cero-gratuitamente](http://www.elandroidelibre.com/2013/11/aprender-a-programar-en-android-desde-cero-gratuitamente.html).
-* [los-libros-open-source-sobre-android](http://www.elandroidelibre.com/2011/11/los-libros-open-source-sobre-android.html).
-
-* [josql](http://josql.sourceforge.net/).
-
-* [toastr](https://github.com/CodeSeven/toastr).
-
-
-
-* [jquery-plugins](http://jquery-plugins.net/).
-
-
-
-* [tagsort](http://wch.io/projects/tagsort/).
-
-
-
-* [slideout](https://github.com/mango/slideout).
-* [js-grid](http://js-grid.com/).
+http://www.mailgun.com/
 
 
 
 
-* [docker-oracle-xe-11g](https://github.com/wnameless/docker-oracle-xe-11g).
-* [docker](https://hub.docker.com/).
-* [docker](https://hub.docker.com/explore/).
 
 
-* [docker postgresql](https://hub.docker.com/search/?q=postgresql&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker postgresql](https://hub.docker.com/r/paintedfox/postgresql/).
-* [docker postgresql](https://hub.docker.com/r/orchardup/postgresql/).
 
 
-* [docker mariadb](https://hub.docker.com/search/?q=mariadb&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker mariadb](https://hub.docker.com/_/mariadb/).
-* [docker mariadb](https://hub.docker.com/r/bitnami/mariadb/).
-
-* [docker mysql](https://hub.docker.com/search/?q=mysql&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker mysql](https://hub.docker.com/_/mysql/).
-* [docker mysql](https://hub.docker.com/r/mysql/mysql-server/).
-
-* [docker oracle](https://hub.docker.com/search/?q=oracle&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker oracle](https://hub.docker.com/r/wnameless/oracle-xe-11g/).
-* [docker oracle](https://hub.docker.com/r/alexeiled/docker-oracle-xe-11g/).
 
 
-* [docker tomcat](https://hub.docker.com/search/?q=tomcat&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker tomcat](https://hub.docker.com/_/tomcat/).
-
-* [docker jboss](https://hub.docker.com/search/?q=jboss&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker jboss](https://hub.docker.com/r/tutum/jboss/).
-
-* [docker jetty](https://hub.docker.com/search/?q=jetty&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker jetty](https://hub.docker.com/_/jetty/).
-
-* [docker nginx](https://hub.docker.com/search/?q=nginx&page=1&isAutomated=0&isOfficial=0&starCount=0&pullCount=0).
-* [docker nginx](https://hub.docker.com/_/nginx/).
-
-* [docker oraclelinux](https://hub.docker.com/_/oraclelinux/).
-
-* [docker android](https://hub.docker.com/r/jacekmarchwicki/android/).
-
-* [docker ubuntu](https://hub.docker.com/_/ubuntu/).
-
-* [docker memcached](https://hub.docker.com/_/memcached/).
-* [docker redis](https://hub.docker.com/_/redis/).
-
-* [docker samba](https://hub.docker.com/r/svendowideit/samba/).
-* [docker dockerfile](https://dockerfile.github.io/).
-
-* [rethinkdb](http://www.rethinkdb.com/).
-
-* [openstack](https://www.openstack.org/).
 
 
-* [activejdbc](http://javalite.io/activejdbc).
-* [activejdbc](http://javalite.io/activejdbc#minute-introduction).
 
-* [activeweb](http://javalite.io/activeweb).
-* [http](http://javalite.io/http).
-* [jspec](http://javalite.io/jspec).
 
-* [sqlite](https://www.sqlite.org/).
 
-* [sql2o](http://www.sql2o.org/).
-
-* [vimeo](https://vimeo.com/).
-
-* [rythmengine](http://rythmengine.org/).
-* [jtwig](http://jtwig.org/).
-* [httl](http://httl.github.io/en/).
-
-* [staticgen](https://www.staticgen.com/).
-
-* [ecryptfs](http://ecryptfs.org/).
 
 * [vertx](http://vertx.io/).
 
-* [awesome-java](https://github.com/akullpp/awesome-java).
 
 * [bitly](https://bitly.com/).
 
@@ -693,8 +247,8 @@ crtime: 2015-12-25 22:02:32
 * [Perl Rest web app (III)](http://www.codeproject.com/Articles/414446/REST-Service-with-Perl-and-Dancer)
 * [Perl Rest web app (IV)](http://www.techumber.com/2014/08/create-restful-services-using-perl.html)
 * [Perl Rest web app (V)](https://github.com/dns/OpenShift-DIY-Perl)
+* [Perl Rest web app (VI)](https://github.com/Ovid/openshift-perl).
 
 
 * [Openshift Hub](https://hub.openshift.com/).
 * [Openshift Hub](https://hub.openshift.com/addons).
-

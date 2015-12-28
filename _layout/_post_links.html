@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+[% include "_meta_comment.html" %]
+
+[% postTitle = page.title %]
+[% postDescription = page.description %]
+[% postDate = page.crtime %]
+[% postDateMonth = formatDate(postDate, "%b") %]
+[% postDateDay = formatDate(postDate, "%e") %]
+[% postDateYear = formatDate(postDate, "%Y") %]
+
+[% comment %]
+[% postTitle = "Welcome to Striped" %]
+[% postDescription = "A free, fully responsive HTML5 site template by HTML5 UP" %]
+[% postDateMonth = "Jul" %]
+[% postDateDay = "14" %]
+[% postDateYear = "2014" %]
+[% end %]
+<html lang="es-ES">
+  <head>
+    <title>[% page.title | ucfirst %] - [% site.name | ucfirst %]</title>
+
+    [% include "_head_includes.html" %]
+  </head>
+
+  <body>
+    [% include "_sidebar.html" %]
+    <div class="content">
+      <div class="inner">
+        <article class="box post post-excerpt">
+          <header>
+            <h2><a href="#">[% postTitle %]</a></h2>
+            <p>[% postDescription %]</p>
+          </header>
+          <div class="info">
+            <span class="date"><span class="month">[% postDateMonth %]</span> <span class="day">[% postDateDay %]</span><span class="year">, [% postDateYear %]</span></span>
+            <ul class="stats">
+              <li><a href="#" class="icon fa-comment">16</a></li>
+              <li><a href="#" class="icon fa-heart">32</a></li>
+              <li><a href="#" class="icon fa-twitter">64</a></li>
+              <li><a href="#" class="icon fa-facebook">128</a></li>
+            </ul>
+          </div>
+          [% page.content %]
+          
+          <div class="grid-4_lg-4_md-3_sm-2_xs-1">
+          [% idx = 0 %]
+          [% for link in page.links %]
+            <div class="col">
+            [% wInfoBoxLink(link, page, idx) %]
+            [% idx = idx +1 %]
+            </div>
+          [% end %]
+          </div>
+          
+        </article>
+      </div>
+    </div>
+  </body>
+</html>
