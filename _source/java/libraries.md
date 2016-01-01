@@ -59,3 +59,19 @@ crtime: 2015-12-25 21:28:46
 * [jOpenDocument](http://www.jopendocument.org/).
 
 * [josql](http://josql.sourceforge.net/).
+
+* [vertx](http://vertx.io/).
+
+* [dropwizard](https://dropwizard.github.io/dropwizard/).
+
+* [better-java](https://github.com/cxxr/better-java).
+
+* [jersey](https://jersey.java.net/).
+
+* [sparkjava](http://sparkjava.com/).
+
+* [jimfs](https://github.com/google/jimfs).
+
+
+* [Janino](http://unkrig.de/w/Janino#Janino_as_a_Source_Code_ClassLoader).
+* [Janino](http://janino.net/changelog.html).

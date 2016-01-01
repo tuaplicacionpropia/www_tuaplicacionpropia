@@ -69,3 +69,7 @@ crtime: 2015-12-28 12:32:36
 * [bgs-sample](https://github.com/Red-Folder/bgs-sample).
 
 * [airdroid](http://web.airdroid.com/).
+
+* [crosswalk-project](https://crosswalk-project.org/).
+
+* [sending-email-using-phonegap](http://stackoverflow.com/questions/14040371/sending-email-using-phonegap).

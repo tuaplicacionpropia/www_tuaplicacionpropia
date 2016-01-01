@@ -36,3 +36,6 @@ https://www.dotcloud.com/
 
 https://backendless.com/mobile-developers/quick-start-guide-for-rest-api/
 https://www.linode.com/
+
+* [Openshift Hub](https://hub.openshift.com/).
+* [Openshift Hub](https://hub.openshift.com/addons).

@@ -20,3 +20,8 @@ links:
 
 crtime: 2015-12-30 16:18:49
 ---
+
+* [creating-external-dsls-using](https://dzone.com/articles/creating-external-dsls-using).
+
+* [Janino](http://unkrig.de/w/Janino#Janino_as_a_Source_Code_ClassLoader).
+* [Janino](http://janino.net/changelog.html).

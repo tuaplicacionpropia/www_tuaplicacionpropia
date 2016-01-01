@@ -45,3 +45,9 @@ links:
    description: "Decentralized P2P platform for secure, private and end-to-end encrypted cloud storage"
    image: "storj.jpg"
 ---
+
+* [megatools](https://github.com/megous/megatools).
+* [megatools](http://megatools.megous.com/).
+* [MegaFuse](https://github.com/matteoserva/MegaFuse).
+* [megafs](http://megatools.megous.com/man/megafs.html).
+* [megatools-synchronizing-your-backups-to-mega](http://albertolarripa.com/2013/07/10/megatools-synchronizing-your-backups-to-mega/).

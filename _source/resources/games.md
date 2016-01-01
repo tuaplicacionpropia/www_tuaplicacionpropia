@@ -67,3 +67,6 @@ crtime: 2015-12-28 12:30:34
 
 * [kiwijs](http://www.kiwijs.org/).
 * [mapeditor](http://www.mapeditor.org/).
+
+* [liquidfun](https://github.com/google/liquidfun).
+* [hitagi](https://github.com/RoganMurley/hitagi.js).
