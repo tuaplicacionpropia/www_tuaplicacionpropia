@@ -108,3 +108,7 @@ a.a-info-box {
   white-space: nowrap;
   overflow: hidden;
 }
+
+.info-box-icon {
+    line-height: auto;
+}

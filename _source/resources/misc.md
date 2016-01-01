@@ -105,19 +105,8 @@ crtime: 2015-12-25 22:02:32
 
 * [estrategia-fidelizacion-incidencia-tecnica](http://www.muypymes.com/2011/08/31/estrategia-fidelizacion-incidencia-tecnica).
 
-* [Automatic_programming#Source_code_generation](https://en.wikipedia.org/wiki/Automatic_programming#Source_code_generation).
-* [acceleo](http://www.eclipse.org/acceleo/).
-* [genexus](http://www.genexus.com/productos/genexus?es).
 
 
-http://stackshare.io/stackups/firebase-vs-parse
-https://parse.com/
-https://parse.com/docs/cloudcode/guide#started-installing
-https://parse.com/apps/quickstart
-http://www.ladeezfirstmedia.com/2013/06/26/tutorial-part-1-cloud-code-integrate-parse-coms-rest-api-with-your-coronasdk-app/
-http://www.ladeezfirstmedia.com/2013/06/30/tutorial-part-2-parsedata-coronasdk-parsemodules-ftw/
-http://www.ladeezfirstmedia.com/2013/07/08/tutorial-part-3-create-a-website-for-your-coronasdk-app-using-parse-coms-javascript-sdk/
-http://es.slideshare.net/pa4373/parse-cloud-code
 
 http://www.mailgun.com/
 
@@ -160,10 +149,6 @@ http://www.mailgun.com/
 * [megafs](http://megatools.megous.com/man/megafs.html).
 * [megatools-synchronizing-your-backups-to-mega](http://albertolarripa.com/2013/07/10/megatools-synchronizing-your-backups-to-mega/).
 
-* [brotli](https://github.com/google/brotli).
-* [brotli](http://www.gstatic.com/b/brotlidocs/brotli-2015-09-22.pdf).
-* [squash](https://quixdb.github.io/squash/).
-* [LZ77_and_LZ78](https://en.wikipedia.org/wiki/LZ77_and_LZ78).
 
 * [better-java](https://github.com/cxxr/better-java).
 
@@ -176,18 +161,6 @@ http://www.mailgun.com/
 
 * [jimfs](https://github.com/google/jimfs).
 
-* [jekyllrb](https://jekyllrb.com/).
-* [como-crear-tu-blog-en-github-pages](http://jorgecasar.github.io/blog/como-crear-tu-blog-en-github-pages/).
-* [getting-started-with-octopress--webdesign-11442](http://webdesign.tutsplus.com/tutorials/getting-started-with-octopress--webdesign-11442).
-* [tutorial-create-a-blog-with-octopress-and-host-it-in-github-pages](http://miguelcamba.com/blog/2013/04/22/tutorial-create-a-blog-with-octopress-and-host-it-in-github-pages/).
-* [3rd-Party-Octopress-Themes](https://github.com/imathis/octopress/wiki/3rd-Party-Octopress-Themes).
-* [a-new-octopress-theme](http://coog.ie/blog/2013/08/18/a-new-octopress-theme/).
-* [oscailte](https://github.com/coogie/oscailte/).
-* [typo](https://github.com/samwhited/typo).
-* [octopressthemes](http://octopressthemes.com/).
-* [octopress](http://themeforest.net/tags/octopress).
-* [goodbye-octopress-hello-hugo](http://andreimihu.com/blog/2014/08/11/goodbye-octopress-hello-hugo/).
-* [octopress](https://github.com/octopress/octopress).
 
 
 
@@ -252,3 +225,35 @@ http://www.mailgun.com/
 
 * [Openshift Hub](https://hub.openshift.com/).
 * [Openshift Hub](https://hub.openshift.com/addons).
+
+
+
+https://docs.python.org/2/tutorial/modules.html
+https://docs.python.org/2/library/
+http://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/
+https://wiki.python.org/moin/UsefulModules
+https://cloud.google.com/appengine/docs/python/tools/libraries27
+http://blog.macuyiko.com/post/2013/i-almost-switched-to-pelican-a-static-blog-engine.html
+https://pypi.python.org/pypi?%3Aaction=search&term=pelican&submit=search
+http://overapi.com/python/
+http://overapi.com/static/cs/PQRC-2.4-A4-latest.pdf
+http://rgruet.free.fr/PQR26/PQR2.6.html
+https://www.jetbrains.com/pycharm/
+http://sphinx-doc.org/
+http://sphinx-doc.org/theming.html
+https://pythonhosted.org/cloud_sptheme/
+https://readthedocs.org/
+
+
+http://overapi.com/
+https://zealdocs.org/
+https://kapeli.com/dash#docsets
+https://kapeli.com/dash
+https://twitter.com/zealdocs
+
+
+
+http://www.abain.es/productos-donostia-san-sebastian/camas-hogar-otras-placas-camas-abatibles.php
+http://www.abain.es/pdf/Stma.Cama_abatible_Medidas_2011.pdf
+http://www.abain.es/productos-donostia-san-sebastian/nuevo.php?c1=Elevador%20a%20gas%20para%20cama%20abatible%20de%20doble%20tecnica,%20retencion%20y%20freno
+http://complementosdeldescanso.com/producto/pistones-de-gas-para-bisagra-de-canape-abatible/
